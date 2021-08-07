@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lipika-Das
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning Bachelor of Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Bachelor of Computer Applications
+- 💞️ I’m looking to collaborate on - C, C++, MySQL, Java, HTML, CSS
 - 📫 Reach me on, lipika406@gmail.com
 
 <!---
